@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ckg7lFDGbsQUDes9Q/vOT9y1kvLv3sq4LsyEnzGIL+rKEF8Zg8q5HUo9UnK8QPvdCXoqj3FTW4mHOv8IueP4pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zette\\Git\\gamemoviedbbackend\\gamemoviedbbackendaspnet\\gamemoviedbbackendaspnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zette\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\zette\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\zette\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\zette\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\zette\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\zette\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

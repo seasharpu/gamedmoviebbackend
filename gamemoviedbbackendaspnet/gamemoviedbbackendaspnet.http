@@ -1,0 +1,6 @@
+@gamemoviedbbackendaspnet_HostAddress = http://localhost:5095
+
+GET {{gamemoviedbbackendaspnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
